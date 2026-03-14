@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Sanjay AI",
+  "description": "AI-powered telemedicine consultation for remote regions with voice interaction and prescription generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
